@@ -1,8 +1,13 @@
 ### Hi there 👋
 
-[![おかか's GitHub stats](https://github-readme-stats.vercel.app/api?username=okaka8080&theme=vue-dark&show_icons=true)](https://github.com/mo-ri-regen/github-readme-stats)
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okaka8080&layout=compact&count_private=true&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=okaka8080&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okaka8080&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/mo-ri-regen/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=okaka8080&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **okaka8080/okaka8080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
